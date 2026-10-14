@@ -2,7 +2,7 @@
 
 Three short games by Lucci Digital Studio: **Rhythm Ring**, **Bloom Grid** and **Star Drift**.
 
-The Android closed-test release is active. Public self-service invitations are being prepared and checked; joining is not open on this page yet. This page will contain the actual verified Google Play steps when invitations are ready.
+The Android closed-test release is active. [Get a free invitation on the official playtest page](https://youthmy11-ai.github.io/vela-playtest/). The code route has been checked with one owner QA code; owner QA is not counted as recruited testers.
 
 ## Meet the games
 
@@ -14,7 +14,7 @@ The volunteer test is free and supports Android 8.0 or later. Gameplay works off
 
 ## Taking part
 
-Once invitations open, use the Google account on your Android phone and follow the Google Play instructions on the playtest page. Please remain opted in for at least 14 consecutive days and try all three games over several sessions.
+Use the Google account on your Android phone. Copy an invitation on the playtest page, redeem it through Google Play, then open the linked Vela testing page to join and install. Codes are shared and single-use; displaying one does not reserve it. If it was already used, try another code. Google verifies whether a code can still be redeemed. Please remain opted in for at least 14 consecutive days and try all three games over several sessions.
 
 Honest gameplay feedback is welcome. No purchase, public rating or review is requested, and no testing swap is promised.
 
